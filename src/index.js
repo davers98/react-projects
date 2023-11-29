@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import EsignatureApp from './project/01-esignature/EsignatureApp';
+import RandomizeColors from './project/02-RandomizeColors/RandomizeColors';
+import LikePhotoApp from './project/03-LikeMyPhoto/LikePhotoApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
