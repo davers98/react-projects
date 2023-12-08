@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import SlideToUnlockApp from './project/08-slide-to-unlock/SlideToUnlockApp';
+import HiddenSearchBarApp from './project/10-hidden-search-bar/HiddenSearchBarApp';
+// import SlideToUnlockApp from './project/08-slide-to-unlock/SlideToUnlockApp';
+// import SliderApp from './project/09-slider-app/SliderApp';
 // import LikePhotoApp from './project/03-LikeMyPhoto/LikePhotoApp';
 // import TestimonialsApp from './project/04-testimonials-app/TestimonialsApp';
 // import AlertsApp from './project/05-Alerts/AlertsApp';
@@ -16,7 +18,9 @@ function App() {
       {/* <TestimonialsApp /> */}
       {/* <TemperatureControllerApp /> */}
       {/* <DarkModeApp /> */}
-      <SlideToUnlockApp />
+      {/* <SlideToUnlockApp /> */}
+      {/* <SliderApp /> */}
+      <HiddenSearchBarApp />
     </div>
 
   );
